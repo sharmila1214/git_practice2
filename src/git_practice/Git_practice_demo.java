@@ -13,7 +13,8 @@ System.out.println("i am house owner ");
 System.out.println("my hometoen is andhra in india");
 System.out.println("my hubby working in qualcom ");
 System.out.println("we bought house");
-System.out.println("bangalore ");
+System.out.println("hyderabad ");
+System.out.println("andharapradesh");
 	}
 
 }
